@@ -31,4 +31,4 @@ If you have any questions or need further assistance, feel free to reach out.
 
 ---
 
-Thank you for checking out the Task Manager WebDev App! We hope you find it useful and enjoy using it.
+Thank you for checking out the Task Manager WebDev App! I hope you find it useful and enjoy using it.
